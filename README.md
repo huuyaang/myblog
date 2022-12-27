@@ -10,5 +10,5 @@
 ---
 
 - 2022年12月
-  - 12-28 [代码随想录算法训练营Day01：数组--Leetcode  704.二分查找  27.移出元素]([首页 (huuyaang.github.io)](https://huuyaang.github.io/Algorithm-ProgrammerCarl_Learning/#/array/Day01))
+  - 12-28 [【代码随想录算法训练营Day01：数组】Leetcode  704.二分查找  27.移出元素](https://huuyaang.github.io/Algorithm-ProgrammerCarl_Learning/#/array/Day01)
 
