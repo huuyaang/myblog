@@ -2,14 +2,13 @@
 
 ### 📚 知识库/笔记
 ---
-- [《代码随想录算法训练营-笔记》](https://huuyaang.github.io/Algorithm-ProgrammerCarl_Learning/#/)
-- 《操作系统-笔记》
-- 《计算机网络-笔记》
+- [《代码随想录算法训练营-笔记》](https://huuyaang.github.io/Algorithm-ProgrammerCarl_Learning/)
 
 ### 🔉 最近更新
 ---
 
 - 2023年01月
+  - 01-03[【代码随想录算法训练营Day07：哈希表】Leetcode  454.四数相加Ⅱ  383.赎金信  15.三数之和  18.四数之和](https://huuyaang.github.io/Algorithm-ProgrammerCarl_Learning/#/hash/Day07)
   - 01-02[【代码随想录算法训练营Day06：哈希表】Leetcode  242.有效的字母异位词  349.两个数组的交集  202.快乐数  1.两数之和](https://huuyaang.github.io/Algorithm-ProgrammerCarl_Learning/#/hash/Day06)
   - 01-01 
     - [【数组专题总结】]()
