@@ -4,7 +4,7 @@
 ---
 - [《代码随想录算法训练营-笔记》](https://huuyaang.github.io/Algorithm-ProgrammerCarl_Learning/)
 
-### 🎯Labs/Projects
+### 🎯 Labs/Projects
 
 - [HIT-OS-Labs](https://huuyaang.github.io/HIT-OperatingSystem_Learning/)
 
